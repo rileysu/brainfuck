@@ -9,3 +9,9 @@ Simple brainfuck interpreter written in C
 ~~~
 make all
 ~~~
+
+## Run
+
+~~~
+./bin/brainfuck.out INPUTFILE
+~~~
